@@ -15,14 +15,14 @@ img {
 
 .container {
   display: grid;
-  grid-template-columns: 40% 60%;
+  grid-template-columns: 38% 62%;
   height: 100vh;
 }
 
 .left {
   text-align: right;
   padding-right: 0%;
-  padding-top: 100px;
+  padding-top: 150px;
 }
 
 .leftbox {
@@ -37,8 +37,8 @@ img {
 
 .right {
   text-align: left;
-  padding-left: 15%;
-  padding-top: 100px;
+  padding-left: 10%;
+  padding-top: 150px;
 }
 
 .h-align {
@@ -49,4 +49,17 @@ img {
 
 .twitter-icon-padding {
   padding-left: 10px;
+}
+
+.clickable-text {
+  text-decoration: underline;
+  cursor: pointer;
+  color:darkblue;
+}
+
+.horizontal-line {
+  border: none;
+  border-top: 1px solid #000;
+  width: 85px;
+  margin-right: 0%;
 }
