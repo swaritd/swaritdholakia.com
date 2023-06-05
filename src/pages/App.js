@@ -10,11 +10,12 @@ import Reads from './Reads';
 import Values from './Values';
 import Work from './Work';
 import Notes from './Notes';
+import About from './About';
 import ClickableText from '../components/ClickableText';
 
 function App() {
 
-  const [selectedComponent, setSelectedComponent] = useState('ComponentOne');
+  const [selectedComponent, setSelectedComponent] = useState('About');
   const handleMenuClick = (componentName) => {
     setSelectedComponent(componentName);
   };
@@ -29,6 +30,12 @@ function App() {
           <img src={headshot} alt='headshot' style={{ width: '150px', height: 'auto' }}></img>
 
           <h2 className='text'>Swarit Dholakia</h2>
+
+          <hr className="horizontal-line" />
+
+          <ul>
+            <ClickableText text="About" onClick={() => handleMenuClick('About')} />
+          </ul>
 
           <ul>
             <ClickableText text="Writings" onClick={() => handleMenuClick('Writings')} />
@@ -55,11 +62,11 @@ function App() {
           <a href="https://twitter.com/swaritdholakia">
           <img src={twittericon} alt='twitterlogo' style={{ width: '25px', height: 'auto' }}></img>
           </a>
-          {' '}
+          
           <a href="mailto:dholakia.swarit@gmail.com">
-          <img src={emailicon} alt='twitterlogo' style={{ width: '25px', height: 'auto' }}></img>
+          <img src={emailicon} alt='emailicon' style={{ width: '35px', height: 'auto' }}></img>
           </a>
-          {' '}
+          
           <a href="https://linkedin.com/in/swaritdholakia/">
           <img src={linkedinicon} alt='linkedinicon' style={{ width: '25px', height: 'auto' }}></img>
           </a>
@@ -67,6 +74,7 @@ function App() {
         </div>
       </div>
 
+      {selectedComponent === 'About' && <About />}
       {selectedComponent === 'Writings' && <Writings />}
       {selectedComponent === 'Reads' && <Reads />}
       {selectedComponent === 'Values' && <Values />}
