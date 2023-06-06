@@ -25,7 +25,7 @@ function App() {
     <div className="container">
 
       <div className="left">
-        <div className='leftbox'>
+        <div>
 
           <img src={headshot} alt='headshot' style={{ width: '150px', height: 'auto' }}></img>
 
