@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/styles.css';
+import AboutPage from '../media/AboutPage';
 
 const About = () => {
   return (
@@ -9,36 +10,8 @@ const About = () => {
         <h3 className='text'>About</h3>
       </div>
 
-      <p>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-
-      </p>
-      <p>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-
-      </p>
-      <p>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-        <br></br>
-        This is a paragraph. This is a paragraph. This is a paragraph. 
-
-      </p>
+      <AboutPage/>
+      
     </div>
   );
 };
