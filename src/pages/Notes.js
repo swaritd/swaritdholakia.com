@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/styles.css';
+import NotesPage from '../media/NotesPage';
 
 const Reads = () => {
   return (
@@ -9,36 +10,8 @@ const Reads = () => {
           <h3 className='text'>Notes</h3>
         </div>
 
-        <p>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
+        <NotesPage/>
 
-        </p>
-        <p>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-
-        </p>
-        <p>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-
-        </p>
       </div>
   );
 };
