@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/styles.css';
+import WorkPage from '../media/WorkPage';
 
 const Reads = () => {
   return (
@@ -9,36 +10,8 @@ const Reads = () => {
           <h3 className='text'>Work</h3>
         </div>
 
-        <p>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
+        <WorkPage/>
 
-        </p>
-        <p>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-
-        </p>
-        <p>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-          <br></br>
-          This is a paragraph. This is a paragraph. This is a paragraph. 
-
-        </p>
       </div>
   );
 };
