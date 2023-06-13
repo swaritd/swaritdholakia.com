@@ -46,15 +46,7 @@ function App() {
           </ul>
 
           <ul>
-            <ClickableText text="Values" onClick={() => handleMenuClick('Values')} />
-          </ul>
-
-          <ul>
             <ClickableText text="Work" onClick={() => handleMenuClick('Work')} />
-          </ul>
-
-          <ul>
-            <ClickableText text="Notes" onClick={() => handleMenuClick('Notes')} />
           </ul>
 
           <hr className="horizontal-line" />
