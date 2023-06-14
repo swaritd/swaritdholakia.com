@@ -65,13 +65,15 @@ function App() {
 
         </div>
       </div>
-
-      {selectedComponent === 'About' && <About />}
-      {selectedComponent === 'Writings' && <Writings />}
-      {selectedComponent === 'Reads' && <Reads />}
-      {selectedComponent === 'Values' && <Values />}
-      {selectedComponent === 'Work' && <Work />}
-      {selectedComponent === 'Notes' && <Notes />}
+      
+      <div className='right'>
+        {selectedComponent === 'About' && <About />}
+        {selectedComponent === 'Writings' && <Writings />}
+        {selectedComponent === 'Reads' && <Reads />}
+        {selectedComponent === 'Values' && <Values />}
+        {selectedComponent === 'Work' && <Work />}
+        {selectedComponent === 'Notes' && <Notes />}
+      </div>
 
     </div>
 
