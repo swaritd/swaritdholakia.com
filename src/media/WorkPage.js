@@ -10,6 +10,7 @@ const WorkPage = () => {
 
 - Built across the stack: microservices, UI components, data investigations, etc
 - Performed tasks as needed: roadmap prioritization, handled customer issues
+- Selected to be in [Susa Ventures](https://susaventures.com/)' Summer Fellows Program
 
 **Logistics Lead @ [HackWestern](https://www.hackwestern.com/)**   
 *July 2022 to March 2022 - London, Canada* 
