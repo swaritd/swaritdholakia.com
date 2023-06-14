@@ -16,12 +16,12 @@ const WorkPage = () => {
 *July 2022 to March 2022 - London, Canada* 
   
 - Led the planning, organization and operation of a 400+ person IRL hackathon at Western University
-- Co-led a team and $60k budget to coordinate logistics: food, security and transportation
+- Co-led a team with a $60k budget to coordinate logistics: food, security and transportation
 
 **Senior Associate @ [Front Row Ventures](https://frontrow.ventures/)**   
 *May 2020 to April 2022 - Toronto, Canada* 
   
-- Led a team of 10 student investors to perform due diligence and hold investment meetings
+- Led a team of 10 student investors to perform due diligence and hold investment decision meetings
 - Met with founders, researched industries, wrote deal memos and led the funding of 2 startups
 
 **Data Science Intern @ TD Bank**   
