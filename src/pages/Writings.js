@@ -4,15 +4,15 @@ import WritingsPage from '../media/WritingsPage';
 
 const Writings = () => {
   return (
-    <div className="right">
+    <div>
 
-        <div className='rightbox'>
-          <h3 className='text'>Writings</h3>
-        </div>
-
-        <WritingsPage/>
-
+      <div>
+        <h3 className='text'>Writings</h3>
       </div>
+
+      <WritingsPage/>
+
+    </div>
   );
 };
 
