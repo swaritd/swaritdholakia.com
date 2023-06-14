@@ -4,15 +4,15 @@ import WorkPage from '../media/WorkPage';
 
 const Reads = () => {
   return (
-    <div className="right">
+    <div>
 
-        <div className='rightbox'>
-          <h3 className='text'>Work</h3>
-        </div>
-
-        <WorkPage/>
-
+      <div>
+        <h3 className='text'>Work</h3>
       </div>
+
+      <WorkPage/>
+
+    </div>
   );
 };
 

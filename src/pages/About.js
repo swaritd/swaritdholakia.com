@@ -4,7 +4,7 @@ import AboutPage from '../media/AboutPage';
 
 const About = () => {
   return (
-    <div className="right">
+    <div>
 
       <div>
         <h3 className='text'>About</h3>

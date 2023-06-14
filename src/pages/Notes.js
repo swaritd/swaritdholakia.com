@@ -4,15 +4,15 @@ import NotesPage from '../media/NotesPage';
 
 const Reads = () => {
   return (
-    <div className="right">
+    <div>
 
-        <div className='rightbox'>
-          <h3 className='text'>Notes</h3>
-        </div>
-
-        <NotesPage/>
-
+      <div>
+        <h3 className='text'>Notes</h3>
       </div>
+
+      <NotesPage/>
+
+    </div>
   );
 };
 
