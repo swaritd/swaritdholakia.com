@@ -25,7 +25,7 @@ I’m an aspiring triathlete and marathonist, and enjoy skiing, backpacking and 
 
 **->** Learning about institutional and growth investing (and becoming more interested in the idea of money as an tool for impact)
 
-**->** Studying the stories and intracies of non-technology companies, founders and CEOs, and investors (some examples: LVMH, Tiger Global, Bob Iger, Reliance, Jamie Dimon, Berkshire, etc)
+**->** Studying the stories and intracies of non-technology companies, founders and CEOs, and investors (some examples: LVMH, Jamie Dimon, Reliance)
 
 **->** Training for my first marathon and hanging out with friends
 
