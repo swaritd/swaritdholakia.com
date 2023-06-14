@@ -42,10 +42,6 @@ function App() {
           </ul>
 
           <ul>
-            <ClickableText text="Reads" onClick={() => handleMenuClick('Reads')} />
-          </ul>
-
-          <ul>
             <ClickableText text="Work" onClick={() => handleMenuClick('Work')} />
           </ul>
 
