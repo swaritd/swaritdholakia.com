@@ -28,6 +28,7 @@ img {
 @media (max-width: 900px) {
   .left {
     padding-top: 25px;
+    padding-left: 10px;
   }
 }
 
