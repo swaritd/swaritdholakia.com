@@ -15,7 +15,7 @@ img {
 
 .container {
   display: grid;
-  grid-template-columns: 38% 62%;
+  grid-template-columns: 37% 61%;
   height: 100vh;
 }
 
@@ -25,7 +25,7 @@ img {
   padding-top: 60px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   .left {
     padding-top: 25px;
     padding-left: 10px;
@@ -40,7 +40,7 @@ img {
   padding-bottom: 25px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   .right {
     max-width: 85%;
     padding-top: 25px;
@@ -60,7 +60,7 @@ img {
 .clickable-text {
   text-decoration: underline;
   cursor: pointer;
-  color:darkblue;
+  color: #3600EE;
 }
 
 .horizontal-line {
