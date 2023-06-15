@@ -47,15 +47,15 @@ function App() {
 
           <hr className="horizontal-line" />
 
-          <a href="https://twitter.com/swaritdholakia">
+          <a href="https://twitter.com/swaritdholakia" target="_blank" rel="noopener noreferrer">
           <img src={twittericon} alt='twitterlogo' style={{ width: '25px', height: 'auto' }}></img>
           </a>
           
-          <a href="mailto:dholakia.swarit@gmail.com">
+          <a href="mailto:dholakia.swarit@gmail.com" target="_blank" rel="noopener noreferrer">
           <img src={emailicon} alt='emailicon' style={{ width: '35px', height: 'auto' }}></img>
           </a>
           
-          <a href="https://linkedin.com/in/swaritdholakia/">
+          <a href="https://linkedin.com/in/swaritdholakia/" target="_blank" rel="noopener noreferrer">
           <img src={linkedinicon} alt='linkedinicon' style={{ width: '25px', height: 'auto' }}></img>
           </a>
 
