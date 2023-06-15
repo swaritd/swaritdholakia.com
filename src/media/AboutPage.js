@@ -1,13 +1,24 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 
 const AboutPage = () => {
-    const markdownContent = 
+
+  const [age, setAge] = useState(22);
+
+  useEffect(() => {
+    const currentDate = new Date();
+    const birthDate = new Date('2001-02-24');
+    const diff = currentDate - birthDate;
+    const ageInYears = Math.floor(diff / (1000 * 60 * 60 * 24 * 365.25));
+    setAge(ageInYears);
+  }, []);
+
+  const markdownContent = 
 
 ` 
 **Hi! I'm Swarit.**
 
-I’m a 22-year-old from Toronto deeply interested in startups that'll solve hard, non-obvious problems and impact billions using exponential technologies. 
+I’m a ${age}-year-old from Toronto deeply interested in startups that'll solve hard, non-obvious problems and impact billions using exponential technologies. 
 
 I’m currently interested in global freight, primary healthcare, and consumer fintech. I’ve also been exploring: the intersection of technology and public policy, modern antitrust law frameworks, economic development in emerging markets and borderless digital value transfer.
 
