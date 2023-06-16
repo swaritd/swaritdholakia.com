@@ -18,9 +18,9 @@ const AboutPage = () => {
 ` 
 **Hi! I'm Swarit.**
 
-I’m a ${age}-year-old from Toronto deeply interested in startups that'll solve hard, non-obvious problems and impact billions using exponential technologies. 
+I’m a ${age}-year-old from Toronto deeply interested in startups that'll solve hard, non-obvious problems and impact billions using exponential technologies and am currently interested in global freight, primary healthcare, and consumer fintech. 
 
-I’m currently interested in global freight, primary healthcare, and consumer fintech. I’ve also been exploring: the intersection of technology and public policy, modern antitrust law frameworks, economic development in emerging markets and borderless digital value transfer.
+I’ve also recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks, economic development in emerging markets and borderless digital value transfer.
 
 I’m an aspiring triathlete and marathonist, and enjoy skiing, backpacking and Nolan movies.
 
