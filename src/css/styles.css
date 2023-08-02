@@ -10,7 +10,7 @@ img {
 
 .text {
   color: #3e5b67;
-  font-family:'inter';
+  font-family:'system-ui';
 }
 
 .container {
@@ -61,7 +61,7 @@ img {
   text-decoration: underline;
   cursor: pointer;
   color: #3600EE;
-  font-family:'inter';
+  font-family:'system-ui';
 }
 
 .horizontal-line {
