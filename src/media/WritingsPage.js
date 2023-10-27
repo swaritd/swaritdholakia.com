@@ -5,7 +5,7 @@ const WritingsPage = () => {
     const markdownContent = 
 
 `
-[What hot air balloons teach us about fintech growth](https://swarit.substack.com/p/what-hot-air-balloons-teach-us-about)
+[Extreme operating excellence in life](https://open.substack.com/pub/swarit/p/extreme-operating-excellence-in-life?r=2r6p2&utm_campaign=post&utm_medium=web)
 
 [A Hidden Gift in Being Grounded: Lessons from my 18 Years](https://swarit.medium.com/a-hidden-gift-in-being-grounded-lessons-from-my-18-years-5fda72b1491a)
 
