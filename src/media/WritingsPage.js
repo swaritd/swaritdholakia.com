@@ -7,6 +7,8 @@ const WritingsPage = () => {
 `
 [Extreme operating excellence in life](https://open.substack.com/pub/swarit/p/extreme-operating-excellence-in-life?r=2r6p2&utm_campaign=post&utm_medium=web)
 
+[What hot air balloons teach us about fintech growth](https://open.substack.com/pub/swarit/p/what-hot-air-balloons-teach-us-about?r=2r6p2&utm_campaign=post&utm_medium=web)
+
 [A Hidden Gift in Being Grounded: Lessons from my 18 Years](https://swarit.medium.com/a-hidden-gift-in-being-grounded-lessons-from-my-18-years-5fda72b1491a)
 
 [A Freshman’s Reflections on University](https://swarit.medium.com/no-i-dont-like-university-484e21b464f5)
