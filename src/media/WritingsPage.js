@@ -5,6 +5,8 @@ const WritingsPage = () => {
     const markdownContent = 
 
 `
+[Intentional thoughts on tech + startups](https://open.substack.com/pub/swarit/p/intentional-thoughts-on-tech-startups?r=2r6p2&utm_campaign=post&utm_medium=web)
+
 [Extreme operating excellence in life](https://open.substack.com/pub/swarit/p/extreme-operating-excellence-in-life?r=2r6p2&utm_campaign=post&utm_medium=web)
 
 [What hot air balloons teach us about fintech growth](https://open.substack.com/pub/swarit/p/what-hot-air-balloons-teach-us-about?r=2r6p2&utm_campaign=post&utm_medium=web)
