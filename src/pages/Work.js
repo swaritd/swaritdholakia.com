@@ -2,9 +2,9 @@ import React from 'react';
 import '../css/styles.css';
 import WorkPage from '../media/WorkPage';
 
-const Reads = () => {
+const Work = () => {
   return (
-    <div>
+    <div style={{maxWidth: '700px'}}>
 
       <div>
         <h3 className='text'>Work</h3>
@@ -16,4 +16,4 @@ const Reads = () => {
   );
 };
 
-export default Reads;
+export default Work;

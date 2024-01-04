@@ -2,9 +2,9 @@ import React from 'react';
 import '../css/styles.css';
 import AboutPage from '../media/AboutPage';
 
-const About = () => {
+const Home = () => {
   return (
-    <div>
+    <div style={{maxWidth: '700px'}}>
 
       <div>
         <h3 className='text'>About</h3>
@@ -16,4 +16,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Home;
