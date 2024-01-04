@@ -4,7 +4,7 @@ import WritingsPage from '../media/WritingsPage';
 
 const Writings = () => {
   return (
-    <div style={{maxWidth: '700px'}}>
+    <div style={{maxWidth: '50%'}}>
 
       <div>
         <h3 className='text'>Writings</h3>

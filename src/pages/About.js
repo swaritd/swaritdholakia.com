@@ -4,7 +4,7 @@ import AboutPage from '../media/AboutPage';
 
 const Home = () => {
   return (
-    <div style={{maxWidth: '700px'}}>
+    <div style={{maxWidth: '50%'}}>
 
       <div>
         <h3 className='text'>About</h3>
