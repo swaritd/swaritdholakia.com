@@ -5,11 +5,11 @@ const WritingsPage = () => {
     const markdownContent = 
 
 `
-[Intentional thoughts on tech + startups](https://open.substack.com/pub/swarit/p/intentional-thoughts-on-tech-startups?r=2r6p2&utm_campaign=post&utm_medium=web)
+[Intentional thoughts on tech + startups](https://www.blog.swaritdholakia.com/pub/swarit/p/intentional-thoughts-on-tech-startups?r=2r6p2&utm_campaign=post&utm_medium=web)
 
-[Extreme operating excellence in life](https://open.substack.com/pub/swarit/p/extreme-operating-excellence-in-life?r=2r6p2&utm_campaign=post&utm_medium=web)
+[Extreme operating excellence in life](https://www.blog.swaritdholakia.com/pub/swarit/p/extreme-operating-excellence-in-life?r=2r6p2&utm_campaign=post&utm_medium=web)
 
-[What hot air balloons teach us about fintech growth](https://open.substack.com/pub/swarit/p/what-hot-air-balloons-teach-us-about?r=2r6p2&utm_campaign=post&utm_medium=web)
+[What hot air balloons teach us about fintech growth](https://www.blog.swaritdholakia.com/pub/swarit/p/what-hot-air-balloons-teach-us-about?r=2r6p2&utm_campaign=post&utm_medium=web)
 
 [A Hidden Gift in Being Grounded: Lessons from my 18 Years](https://swarit.medium.com/a-hidden-gift-in-being-grounded-lessons-from-my-18-years-5fda72b1491a)
 
