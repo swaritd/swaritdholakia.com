@@ -18,29 +18,27 @@ const AboutPage = () => {
 ` 
 **Hi! I'm Swarit.**
 
-I’m a ${age}-year-old from Toronto deeply interested in startups that'll solve hard, non-obvious problems and impact billions using exponential technologies and am currently interested in global freight, primary healthcare, and consumer fintech. 
+I’m a ${age}-year-old from Toronto deeply interested in investing and startups to'll solve hard, non-obvious problems and impact billions using exponential technologies, currently interested in healthcare, fintech and infrastructure software. 
 
-I’ve also recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks, economic development in emerging markets and borderless digital value transfer.
+I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks and economic development in emerging markets.
 
-I’m an aspiring triathlete and marathonist, and enjoy skiing, backpacking and Nolan movies.
+I’m an aspiring marathonist, and enjoy skiing, cycling, backpacking and Nolan movies.
 
 -----
 
 *Currently,*
 
-**->** Graduated from studying software engineering at Western University
-
-**->** Re-discovering areas I truly want to spend my time in: currently very interested in venture studios as a way to build for problems with breadth
+**->** Joining [Meter](https://www.meter.com/) as a generalist in Feb 2024 (and moving to SF!)
 
 **->** Exploring unintentional technology concequences of legacy policy
 
-**->** Learning about institutional and growth investing (and becoming more interested in the idea of money as an tool for impact)
+**->** Building a summer fellowship program for Canadian university students to taste startups via high-impact generalist-like internships
 
-**->** Studying the stories of non-technology companies, leaders, and investors (some examples: LVMH, Jamie Dimon, Reliance)
+**->** Trying to strengthen my analytical muscle for evaluating companies from a VC lens (and how it differs from a founding/building lens)
 
-**->** Training for my first marathon and hanging out with friends
+**->** Travelling and hanging out with friends
 
-*(Updated June 15 2023)*
+*(Updated Jan 4 2024)*
 
   `;
   
