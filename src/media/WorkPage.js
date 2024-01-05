@@ -36,8 +36,7 @@ const WorkPage = () => {
 *Sep 2019 to Jun 2023 - London, Canada* 
   
 - Ivey Fintech Pro-Bono Consulting Program
-- Sample coursework: New Venture Creation, Accounting and Business Analysis, Algorithms and Data Structures, 
-  Software Testing & Maintenance
+- Ivey Technology Club
 
 `;
   
