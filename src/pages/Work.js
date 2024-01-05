@@ -4,7 +4,7 @@ import WorkPage from '../media/WorkPage';
 
 const Work = () => {
   return (
-    <div style={{maxWidth: '50%'}}>
+    <div style={{marginLeft: '10%', marginRight: '10%'}}>
 
       <div>
         <h3 className='text'>Work</h3>
