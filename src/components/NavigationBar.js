@@ -4,7 +4,7 @@ import headshot from '../assets/headshot.jpeg';
 
 const NavigationBar = () => {
   return (
-    <nav style={{ paddingBottom: '5px', paddingTop: '30px' }}>
+    <nav style={{ paddingTop: '20px' }}>
 
       <img src={headshot} alt='headshot' style={{ width: '135px', height: 'auto', marginBottom: '-12px' }}></img>
       <h1 className='text' style={{marginBottom: '-2px'}}>Swarit Dholakia</h1>
