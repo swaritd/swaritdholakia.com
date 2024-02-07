@@ -22,17 +22,17 @@ I’m a ${age}-year-old from Toronto deeply interested in investing and startups
 
 I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks and economic development in emerging markets.
 
-I’m an aspiring marathonist, and enjoy skiing, cycling, backpacking and Nolan movies.
+I’m an aspiring marathonist, and enjoy skiing, cycling, backpacking and Nolan movies. I'm currently based in SF.
 
 -----
 
 *Currently,*
 
-**->** Joining [Meter](https://www.meter.com/) as a generalist in Feb 2024 (and moving to SF!)
-
-**->** Exploring unintentional technology consequences of legacy policy
+**->** Work at [Meter](https://www.meter.com/) as a generalist; building the utility infrastructure for physical internet
 
 **->** Building a summer fellowship program for Canadian university students to taste startups via high-impact generalist-like internships
+
+**->** Exploring unintentional technology consequences of legacy policy
 
 **->** Trying to strengthen my analytical muscle for evaluating companies from a VC lens (and how it differs from a founding/building lens)
 
