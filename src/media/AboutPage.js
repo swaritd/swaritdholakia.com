@@ -20,15 +20,15 @@ const AboutPage = () => {
 
 I’m a ${age}-year-old from Toronto deeply interested in investing and startups to solve hard, non-obvious problems and impact billions using exponential technologies, currently interested in healthcare, fintech and infrastructure software. 
 
-I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks and economic development in emerging markets.
+I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks, and economic development in emerging markets.
 
-I’m an aspiring marathonist, and enjoy skiing, cycling, backpacking and Nolan movies. I'm currently based in SF.
+I’m an aspiring marathonist and enjoy skiing, cycling, backpacking, and Nolan movies. I'm currently based in SF.
 
 -----
 
 *Currently,*
 
-**->** Work at [Meter](https://www.meter.com/) as a generalist; building the utility infrastructure for physical internet
+**->** Work at [Meter](https://www.meter.com/) as a generalist across GTM/ops; building a modern utility for physical internet infrastructure
 
 **->** Building a summer fellowship program for Canadian university students to taste startups via high-impact generalist-like internships
 
@@ -38,7 +38,7 @@ I’m an aspiring marathonist, and enjoy skiing, cycling, backpacking and Nolan 
 
 **->** Travelling and hanging out with friends
 
-*(Updated Jan 4 2024)*
+*(Updated Feb 6 2024)*
 
   `;
   
