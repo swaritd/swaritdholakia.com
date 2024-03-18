@@ -20,7 +20,7 @@ const AboutPage = () => {
 
 I’m a ${age}-year-old from Toronto deeply interested in investing and startups to solve hard, non-obvious problems and impact billions using exponential technologies, currently interested in healthcare, fintech and infrastructure software. 
 
-I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks, and economic development in emerging markets.
+I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks, and global economic development.
 
 I’m an aspiring marathonist and enjoy skiing, cycling, backpacking, and Nolan movies. I'm currently based in SF.
 
