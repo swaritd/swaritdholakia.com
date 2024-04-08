@@ -4,7 +4,8 @@ import AboutPage from '../media/AboutPage';
 
 const Home = () => {
   return (
-    <div style={{marginLeft: '16%', marginRight: '16%'}}>
+    // change padding for mobile below
+    <div style={{marginLeft: '14%', marginRight: '14%'}}>
 
       <div>
         <h3 className='text'>About</h3>
