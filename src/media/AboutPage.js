@@ -18,9 +18,7 @@ const AboutPage = () => {
 ` 
 **Hi! I'm Swarit.**
 
-I’m a ${age}-year-old from Toronto deeply interested in investing and startups to solve hard, non-obvious problems and impact billions using exponential technologies, currently interested in healthcare, fintech and infrastructure software. 
-
-I’ve recently been exploring: the intersection of technology and public policy, modern antitrust law frameworks, and global economic development.
+I’m a ${age}-year-old from Toronto deeply interested in investing and startups to solve hard, non-obvious problems that impact billions across healthcare, fintech and infrastructure software. 
 
 I’m an aspiring marathonist and enjoy skiing, cycling, backpacking, and Nolan movies. I'm currently based in SF.
 
@@ -28,17 +26,15 @@ I’m an aspiring marathonist and enjoy skiing, cycling, backpacking, and Nolan 
 
 *Currently,*
 
-**->** Work at [Meter](https://www.meter.com/) as a generalist across GTM/ops; building a modern utility for physical internet infrastructure
+**->** Work at [Meter](https://www.meter.com/) as a technical generalist on business teams; building a modern utility for physical internet infrastructure
 
 **->** Building a summer fellowship program for Canadian university students to taste startups via high-impact generalist-like internships
-
-**->** Exploring unintentional technology consequences of legacy policy
 
 **->** Trying to strengthen my analytical muscle for evaluating companies from a VC lens (and how it differs from a founding/building lens)
 
 **->** Travelling and hanging out with friends
 
-*(Updated Feb 6 2024)*
+*(Updated Oct 19 2024)*
 
   `;
   
