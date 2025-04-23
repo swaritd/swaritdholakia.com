@@ -18,7 +18,7 @@ const AboutPage = () => {
 ` 
 **Hi! I'm Swarit.**
 
-I’m a ${age}-year-old from Toronto deeply interested in investing and startups to solve hard, non-obvious problems that impact billions across healthcare, fintech and infrastructure software. 
+I’m a ${age}-year-old from Toronto deeply interested in investing and startups to solve hard, non-obvious problems that impact billions. 
 
 I’m an aspiring marathonist and enjoy skiing, cycling, backpacking, and Nolan movies. I'm currently based in SF.
 
